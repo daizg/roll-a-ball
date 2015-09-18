@@ -1,0 +1,13 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\..\Desktop\Exercise_Files\Ch_1\01_04\Unity_Project\Assets\Scripts\Gameplay\Ship.cs">
+    <Files>
+      <File FileName="..\..\Desktop\Exercise_Files\Ch_1\01_04\Unity_Project\Assets\Scripts\Gameplay\Ship.cs" Line="90" Column="2" />
+      <File FileName="..\..\Desktop\Exercise_Files\Ch_1\01_04\Unity_Project\Assets\Scripts\UserInputHandler.cs" Line="48" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
